@@ -6,9 +6,11 @@
 
 ## 📄 Resume
 
-**[📥 View / Download Resume](https://github.com/adi0tya/Resume/raw/main/Aditya_Dash_Resume.pdf)**
+**[📥 Download Resume](https://github.com/adi0tya/Resume/raw/main/Aditya_Dash_Resume.pdf)**
 
-Click the link above to view or download my latest resume.
+**[👁️ View on GitHub](https://github.com/adi0tya/Resume/blob/main/Aditya_Dash_Resume.pdf)**
+
+Click either link above to view or download my latest resume.
 
 ---
 
