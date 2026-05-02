@@ -30,14 +30,6 @@ Results-driven MERN Stack Developer specializing in building scalable, real-time
 - Built an interactive auto-generated documentation UI that simplifies API consumption and accelerates frontend integration workflows.
 - Optimized developer productivity with reusable, modular endpoint templates and seamless third-party service compatibility.
 
-### Task Manager — Secure Role-Based System
-`Node.js` `Express.js` `MongoDB` `JWT` `React.js` `Tailwind CSS`
-
-- Built a production-ready REST API with JWT authentication, role-based access control (user/admin), and full CRUD task management.
-- Implemented Joi validation, global error handling, request logging middleware, and Swagger API documentation.
-- Developed a React frontend with protected routes, admin panel, and real-time toast notifications.
-- [View Repository →](https://github.com/adi0tya/Task-manager)
-
 ---
 
 ## Technical Skills
