@@ -1,14 +1,12 @@
-# Aditya Dash — Developer Portfolio & Resume
+# Aditya Dash — Resume
 
-[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/adi0tya/Resume/raw/main/Resume/Aditya_Dash_Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄%20Resume-View%20%2F%20Download-blue?style=for-the-badge)](https://github.com/adi0tya/Resume/raw/main/Aditya_Dash_Resume.pdf)
 
 ---
 
 ## 📄 Resume
 
-> Click the button above or the link below to view or download my latest resume.
-
-**[📥 View / Download Resume](https://github.com/adi0tya/Resume/raw/main/Resume/Aditya_Dash_Resume.pdf)**
+**[📥 View / Download Resume](https://github.com/adi0tya/Resume/raw/main/Aditya_Dash_Resume.pdf)**
 
 Click the link above to view or download my latest resume.
 
@@ -28,26 +26,26 @@ Click the link above to view or download my latest resume.
 
 ## 🛠️ Tech Stack
 
-| Area       | Technologies                                      |
-|------------|---------------------------------------------------|
-| Languages  | JavaScript, Python, C                             |
-| Frontend   | HTML, CSS, React.js, Tailwind CSS                 |
-| Backend    | Node.js, Express.js, REST APIs                    |
-| Database   | MongoDB                                           |
-| Tools      | Git, GitHub, VS Code                              |
+| Area       | Technologies                          |
+|------------|---------------------------------------|
+| Languages  | JavaScript, Python, C                 |
+| Frontend   | HTML, CSS, React.js, Tailwind CSS     |
+| Backend    | Node.js, Express.js, REST APIs        |
+| Database   | MongoDB                               |
+| Tools      | Git, GitHub, VS Code                  |
 
 ---
 
 ## 🗂️ Projects
 
+### [Task Manager](https://github.com/adi0tya/Task-manager)
+Secure role-based task management system — Node.js, Express, MongoDB, JWT, React
+
 ### [SyncSpace](https://github.com/adi0tya)
-Real-time collaborative study platform — React, Node.js, Express, MongoDB, Socket.io, Tailwind CSS
+Real-time collaborative study platform — React, Node.js, Express, MongoDB, Socket.io
 
 ### [Dynamic API Generator](https://github.com/adi0tya)
 Platform to dynamically create and manage REST APIs — React, Node.js, Express
-
-### [Task Manager](https://github.com/adi0tya/Task-manager)
-Secure role-based task management system — Node.js, Express, MongoDB, JWT, React
 
 ---
 
@@ -55,9 +53,8 @@ Secure role-based task management system — Node.js, Express, MongoDB, JWT, Rea
 
 ```
 Resume/
-└── Resume/
-    └── Aditya_Dash_Resume.pdf   ← Resume PDF
-resume.html                      ← Web version of resume
+├── Aditya_Dash_Resume.pdf   ← Resume PDF (click to download)
+└── resume.html              ← Web version of resume
 ```
 
 ---
