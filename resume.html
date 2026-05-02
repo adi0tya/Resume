@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aditya Dash – Resume</title>
+  <style>
+    @page {
+      size: A4;
+      margin: 0;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html, body {
+      width: 210mm;
+      height: 297mm;
+      background: #fff;
+      font-family: 'Times New Roman', Times, serif;
+      color: #000;
+    }
+
+    .resume {
+      width: 210mm;
+      height: 297mm;
+      padding: 13mm 14mm 12mm 14mm;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* ── HEADER ── */
+    .header {
+      text-align: center;
+      margin-bottom: 8pt;
+    }
+
+    .header h1 {
+      font-size: 26pt;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+      margin-bottom: 4pt;
+    }
+
+    .header .contact {
+      font-size: 10pt;
+      line-height: 1.7;
+      color: #000;
+    }
+
+    .header .contact a {
+      color: #000;
+      text-decoration: none;
+    }
+
+    /* ── SECTION ── */
+    .section {
+      margin-bottom: 9pt;
+    }
+
+    .section-title {
+      font-size: 13pt;
+      font-weight: bold;
+      border-bottom: 1.2px solid #000;
+      padding-bottom: 2pt;
+      margin-bottom: 5pt;
+    }
+
+    /* ── ROW WITH DATE ── */
+    .row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+    }
+
+    .row-left {
+      font-weight: bold;
+      font-size: 11pt;
+    }
+
+    .row-right {
+      font-size: 10.5pt;
+      white-space: nowrap;
+    }
+
+    .sub-label {
+      font-size: 10.5pt;
+      color: #222;
+      margin-bottom: 3pt;
+      font-style: italic;
+    }
+
+    /* ── BULLETS ── */
+    ul {
+      padding-left: 17pt;
+      margin-top: 3pt;
+    }
+
+    ul li {
+      font-size: 11pt;
+      line-height: 1.55;
+      margin-bottom: 2.5pt;
+    }
+
+    /* ── SUMMARY ── */
+    .summary-text {
+      font-size: 11pt;
+      line-height: 1.6;
+    }
+
+    /* ── SKILLS ── */
+    .skills-block {
+      font-size: 11pt;
+      line-height: 1.7;
+    }
+
+    .skills-block b {
+      font-weight: bold;
+    }
+
+    /* ── PROJECT ── */
+    .project-entry {
+      margin-bottom: 8pt;
+    }
+
+    .project-title-line {
+      font-size: 11pt;
+      margin-bottom: 2pt;
+    }
+
+    .project-name {
+      font-weight: bold;
+    }
+
+    .project-tech {
+      font-style: italic;
+      font-weight: normal;
+    }
+
+    /* ── EDUCATION ── */
+    .edu-line {
+      font-size: 11pt;
+      line-height: 1.5;
+    }
+
+    .edu-uni {
+      font-weight: bold;
+    }
+
+    /* ── SPACER fills remaining vertical space ── */
+    .fill {
+      flex: 1;
+    }
+
+    @media print {
+      html, body {
+        width: 210mm;
+        height: 297mm;
+      }
+      .resume {
+        padding: 13mm 14mm 12mm 14mm;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="resume">
+
+  <!-- HEADER -->
+  <div class="header">
+    <h1>Aditya Dash</h1>
+    <div class="contact">
+      Bhubaneswar, India &nbsp;|&nbsp;
+      <a href="mailto:adityadash05@gmail.com">adityadash05@gmail.com</a>
+      &nbsp;|&nbsp; 8260540773
+      <br/>
+      <a href="https://adityadash-portfolio.vercel.app/" target="_blank">adityadash-portfolio.vercel.app</a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/aditya-dash-421748311" target="_blank">linkedin.com/in/aditya-dash-421748311</a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/adi0tya" target="_blank">github.com/adi0tya</a>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section">
+    <div class="section-title">Professional Summary</div>
+    <p class="summary-text">
+      Results-driven MERN Stack Developer specializing in building scalable, real-time web applications. Proven ability
+      to develop robust RESTful APIs, optimize database performance, and deliver responsive full-stack solutions using
+      React.js, Node.js, Express.js, and MongoDB. Passionate about building end-to-end systems that solve real-world
+      problems with clean architecture and performance-focused engineering.
+    </p>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section">
+    <div class="section-title">Projects</div>
+
+    <div class="project-entry">
+      <div class="project-title-line">
+        <span class="project-name">SyncSpace</span>
+        <span class="project-tech"> (Collaborative Study Platform) &nbsp;—&nbsp; React.js, Node.js, Express, MongoDB, Socket.io, Tailwind CSS</span>
+      </div>
+      <ul>
+        <li>Built a full-stack real-time collaborative study platform with live chat, study rooms, and multi-user file sharing, supporting concurrent users seamlessly.</li>
+        <li>Implemented a Pomodoro productivity timer, voice communication, and dynamic multi-user session handling to enhance the study experience.</li>
+        <li>Developed a scalable Node.js and Express backend with MongoDB, optimized for low-latency performance under high-concurrency workloads.</li>
+        <li>Designed a fully responsive React.js frontend with Tailwind CSS, ensuring consistent and smooth experience across all devices and screen sizes.</li>
+      </ul>
+    </div>
+
+    <div class="project-entry">
+      <div class="project-title-line">
+        <span class="project-name">Dynamic API Generator</span>
+        <span class="project-tech"> &nbsp;—&nbsp; React.js, Node.js, Express.js, REST APIs</span>
+      </div>
+      <ul>
+        <li>Developed a full-stack platform enabling developers to dynamically create, configure, and manage RESTful CRUD APIs without writing repetitive boilerplate code.</li>
+        <li>Implemented live endpoint routing, strict CORS policy handling, and a built-in API testing interface for instant request validation and debugging.</li>
+        <li>Built an interactive auto-generated documentation UI that simplifies API consumption and accelerates frontend integration workflows.</li>
+        <li>Optimized developer productivity with reusable, modular endpoint templates and seamless third-party service compatibility.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- TECHNICAL SKILLS -->
+  <div class="section">
+    <div class="section-title">Technical Skills</div>
+    <div class="skills-block">
+      <b>Languages:</b> JavaScript, Python, C<br/>
+      <b>Frontend:</b> HTML, CSS, React.js, Tailwind CSS<br/>
+      <b>Backend:</b> Node.js, Express.js, REST APIs<br/>
+      <b>Database:</b> MongoDB<br/>
+      <b>Tools &amp; Platforms:</b> Git, GitHub, VS Code
+    </div>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section">
+    <div class="section-title">Education</div>
+    <div class="row edu-line">
+      <div>
+        <span class="edu-uni">Birla Global University</span>, Bachelor of Computer Applications (BCA)
+      </div>
+      <div class="row-right">2024 – Present</div>
+    </div>
+  </div>
+
+  <!-- VOLUNTEER EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Volunteer Experience</div>
+    <div class="row">
+      <div class="row-left">Point of Contact (POC) – Spectra 2026 (BGMI LAN Tournament)</div>
+      <div class="row-right">2026</div>
+    </div>
+    <div class="sub-label">Birla Global University, Bhubaneswar</div>
+    <ul>
+      <li>Managed complete event operations for 150+ participants, overseeing registrations, bracket scheduling, and on-ground logistics from start to finish.</li>
+      <li>Coordinated with multiple teams, venue staff, and officials to ensure smooth, timely execution of all tournament rounds and activities.</li>
+      <li>Identified and resolved real-time operational issues efficiently, demonstrating strong leadership and composure under high-pressure conditions.</li>
+    </ul>
+  </div>
+
+  <!-- FILL REMAINING SPACE -->
+  <div class="fill"></div>
+
+</div>
+</body>
+</html>
