@@ -1,66 +1,76 @@
-# Aditya Dash — Resume
+# Aditya Dash
 
-[![Resume](https://img.shields.io/badge/📄%20Resume-View%20%2F%20Download-blue?style=for-the-badge)](https://github.com/adi0tya/Resume/raw/main/Aditya_Dash_Resume.pdf)
+**Bhubaneswar, India** &nbsp;|&nbsp; [adityadash05@gmail.com](mailto:adityadash05@gmail.com) &nbsp;|&nbsp; +91 8260540773
 
----
-
-## 📄 Resume
-
-**[📥 Download Resume](https://github.com/adi0tya/Resume/raw/main/Aditya_Dash_Resume.pdf)**
-
-**[👁️ View on GitHub](https://github.com/adi0tya/Resume/blob/main/Aditya_Dash_Resume.pdf)**
-
-Click either link above to view or download my latest resume.
+[Portfolio](https://adityadash-portfolio.vercel.app) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/aditya-dash-421748311) &nbsp;|&nbsp; [GitHub](https://github.com/adi0tya)
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-**Aditya Dash** — MERN Stack Developer  
-📍 Bhubaneswar, India  
-📧 [adityadash05@gmail.com](mailto:adityadash05@gmail.com)  
-📞 +91 8260540773  
-🌐 [Portfolio](https://adityadash-portfolio.vercel.app) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/aditya-dash-421748311) &nbsp;|&nbsp; [GitHub](https://github.com/adi0tya)
-
-> Results-driven MERN Stack Developer specializing in scalable, real-time web applications. Strong experience in building REST APIs, optimizing database performance, and developing full-stack systems using React, Node.js, Express, and MongoDB.
+Results-driven MERN Stack Developer specializing in building scalable, real-time web applications. Proven ability to develop robust RESTful APIs, optimize database performance, and deliver responsive full-stack solutions using React.js, Node.js, Express.js, and MongoDB. Passionate about building end-to-end systems that solve real-world problems with clean architecture and performance-focused engineering.
 
 ---
 
-## 🛠️ Tech Stack
+## Projects
 
-| Area       | Technologies                          |
-|------------|---------------------------------------|
-| Languages  | JavaScript, Python, C                 |
-| Frontend   | HTML, CSS, React.js, Tailwind CSS     |
-| Backend    | Node.js, Express.js, REST APIs        |
-| Database   | MongoDB                               |
-| Tools      | Git, GitHub, VS Code                  |
+### SyncSpace &nbsp;—&nbsp; *Collaborative Study Platform*
+`React.js` `Node.js` `Express` `MongoDB` `Socket.io` `Tailwind CSS`
+
+- Built a full-stack real-time collaborative study platform with live chat, study rooms, and multi-user file sharing, supporting concurrent users seamlessly.
+- Implemented a Pomodoro productivity timer, voice communication, and dynamic multi-user session handling to enhance the study experience.
+- Developed a scalable Node.js and Express backend with MongoDB, optimized for low-latency performance under high-concurrency workloads.
+- Designed a fully responsive React.js frontend with Tailwind CSS, ensuring consistent and smooth experience across all devices and screen sizes.
+
+### Dynamic API Generator
+`React.js` `Node.js` `Express.js` `REST APIs`
+
+- Developed a full-stack platform enabling developers to dynamically create, configure, and manage RESTful CRUD APIs without writing repetitive boilerplate code.
+- Implemented live endpoint routing, strict CORS policy handling, and a built-in API testing interface for instant request validation and debugging.
+- Built an interactive auto-generated documentation UI that simplifies API consumption and accelerates frontend integration workflows.
+- Optimized developer productivity with reusable, modular endpoint templates and seamless third-party service compatibility.
+
+### Task Manager — Secure Role-Based System
+`Node.js` `Express.js` `MongoDB` `JWT` `React.js` `Tailwind CSS`
+
+- Built a production-ready REST API with JWT authentication, role-based access control (user/admin), and full CRUD task management.
+- Implemented Joi validation, global error handling, request logging middleware, and Swagger API documentation.
+- Developed a React frontend with protected routes, admin panel, and real-time toast notifications.
+- [View Repository →](https://github.com/adi0tya/Task-manager)
 
 ---
 
-## 🗂️ Projects
+## Technical Skills
 
-### [Task Manager](https://github.com/adi0tya/Task-manager)
-Secure role-based task management system — Node.js, Express, MongoDB, JWT, React
-
-### [SyncSpace](https://github.com/adi0tya)
-Real-time collaborative study platform — React, Node.js, Express, MongoDB, Socket.io
-
-### [Dynamic API Generator](https://github.com/adi0tya)
-Platform to dynamically create and manage REST APIs — React, Node.js, Express
+| Area              | Technologies                              |
+|-------------------|-------------------------------------------|
+| **Languages**     | JavaScript, Python, C                     |
+| **Frontend**      | HTML, CSS, React.js, Tailwind CSS         |
+| **Backend**       | Node.js, Express.js, REST APIs            |
+| **Database**      | MongoDB                                   |
+| **Tools**         | Git, GitHub, VS Code                      |
 
 ---
 
-## 📁 Repository Contents
+## Education
 
-```
-Resume/
-├── Aditya_Dash_Resume.pdf   ← Resume PDF (click to download)
-└── resume.html              ← Web version of resume
-```
+**Birla Global University** — Bachelor of Computer Applications (BCA) &nbsp;&nbsp;&nbsp; `2024 – Present`
+
+---
+
+## Volunteer Experience
+
+**Point of Contact (POC) – Spectra 2026 (BGMI LAN Tournament)** &nbsp;&nbsp;&nbsp; `2026`
+*Birla Global University, Bhubaneswar*
+
+- Managed complete event operations for 150+ participants, overseeing registrations, bracket scheduling, and on-ground logistics from start to finish.
+- Coordinated with multiple teams, venue staff, and officials to ensure smooth, timely execution of all tournament rounds and activities.
+- Identified and resolved real-time operational issues efficiently, demonstrating strong leadership and composure under high-pressure conditions.
 
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://adityadash-portfolio.vercel.app">Aditya Dash</a>
+  <a href="https://adityadash-portfolio.vercel.app">Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://github.com/adi0tya">GitHub</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/aditya-dash-421748311">LinkedIn</a>
 </p>
